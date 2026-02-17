@@ -54,16 +54,16 @@
 
 ## 🚀 Projects
 
-### ⭐ ROCK-PAPER-SCISSOR WEB-GAME
-- 🛠️ **HTML • CSS • JavaScript**
-- 🔗 Live: `Coming Soon`
-- 📌 Repo: `Add your repo link here`
+### ⭐ Multi-Language Website
+- 🛠️ **HTML • CSS • JavaScript • Django**
+- 🔗 Live: `Now Live`
+- 📌 Repo: https://github.com/Pittu-Sharma/multilanguage-site-project
 
 ---
 
 ### ⭐ FLAPPY-BIRD GAME
 - 🛠️ **Python  • Python-Liberary**
-- 🔗 Live: `Coming Soon`
+- 🔗 Live: `Now Live`
 - 📌 Repo: https://github.com/Pittu-Sharma/flappy-bird-game
 
 ---
@@ -123,6 +123,10 @@
 ## 🧠 CodeChef
 <a href="https://www.codechef.com/users/pittup25" target="_blank">
   <img src="https://cdn.codechef.com/images/cc-logo.svg" height="42" alt=CodeChef" />
+
+## 🧠 LeetCode
+<a href="https://leetcode.com/u/pittu_sharma/" target="_blank">
+  <img src = "https://cdn.simpleicons.org/leetcode/FFA116" height="42" alt = "Leetcode"/>
 
 ---
 
