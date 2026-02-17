@@ -64,7 +64,7 @@
 ### ⭐ FLAPPY-BIRD GAME
 - 🛠️ **Python  • Python-Liberary**
 - 🔗 Live: `Coming Soon`
-- 📌 Repo: `Add your repo link here`
+- 📌 Repo: https://github.com/Pittu-Sharma/flappy-bird-game
 
 ---
 
