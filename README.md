@@ -127,7 +127,7 @@
 ---
 
 ## 🤝 Connect With Me
-www.linkedin.com/in/pittu-sharma-0a7a84366
+
 <p align="left">
   <a href="https://github.com/Pittu-Sharma">
     <img src="https://skillicons.dev/icons?i=github" height="42" />
