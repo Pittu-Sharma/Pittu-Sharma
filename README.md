@@ -86,10 +86,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pittu-Sharma&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
-### 📌 Contribution Highlights
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Pittu-Sharma&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
 
 ### 📈 Contribution Graph
 <p align="left">
