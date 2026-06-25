@@ -71,7 +71,7 @@
 ### ⭐ Full Stack App (Coming Soon)
 - 🛠️ **React • Node.js • Express • MySQL**
 - 🔗 Live: `Now Live`
-- 📌 Repo: `https://music-player-frontend-beta.vercel.app`
+- 📌 Repo: https://music-player-frontend-beta.vercel.app
 
 ---
 
